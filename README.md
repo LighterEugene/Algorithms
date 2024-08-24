@@ -16,8 +16,8 @@ Homework 1
 
 Homework 2
 
-​​Какова временная сложность?
-void test1(int n)
+​​Какова временная сложность? 
+ void test1(int n)
 {
    if (n==1)
       return;
